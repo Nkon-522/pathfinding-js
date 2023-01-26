@@ -1,0 +1,22 @@
+{
+  "name": "pathfinding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nkon-522/pathfinding-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nkon-522/pathfinding-js/issues"
+  },
+  "homepage": "https://github.com/Nkon-522/pathfinding-js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
