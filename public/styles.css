@@ -1,0 +1,23 @@
+* {
+    border: 2px solid red;
+}
+
+body {
+    border: 2px solid rgb(9, 238, 207);
+}
+
+#board {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 1px;
+    border: 2px solid green;
+}
+
+.node {
+    margin:1px;
+    border: 2px solid blue;
+}
+
+.node:hover {
+    background-color: orange;
+}
